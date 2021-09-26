@@ -1,9 +1,11 @@
-// import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header/Header';
 
 function App() {
   return (
     <div className="App">
+      <Header/>
       <h1>hello from react</h1>
     </div>
   );
