@@ -1,32 +1,31 @@
 import React from 'react';
-import './Cart.css';
-
+import Selected from '../Selected/Selected';
+import './Cart.css'
 const Cart = (props) => {
     const { cart } = props;
-
-    // const totalReducer = (previous, product) => previous + product.price;
-    // const total = cart.reduce(totalReducer, 0);
-    let totalQuantity = 0;
+    const totalDevelopers = cart.length;
     let total = 0;
-    for (const product of cart) {
-        if (!product.quantity) {
-            product.quantity = 1;
-        }
-        total = total + product.price * product.quantity;
-        totalQuantity = totalQuantity + product.quantity;
+    for (const developer of cart) {
+        total = total + developer.salary;
     }
-
-    const shipping = total > 0 ? 15 : 0;
-    const tax = (total + shipping) * 0.05;
-    const grandTotal = total + shipping + tax;
+    
     return (
-        <div>
-            <h5>Items Ordered: {totalQuantity}</h5>
-            <br />
-            <p>Total: {total.toFixed(2)}</p>
-            <p>Shipping: {shipping}</p>
-            <p>tax: {tax.toFixed(2)}</p>
-            <p>Grand Total: {grandTotal.toFixed(2)}</p>
+        <div className="cart-main">
+            <div className="cart h-100">
+                <div className="cart-details">
+                    <h3>Added Developers: <span className="fw-bolder text-success">{totalDevelopers}</span></h3>
+                    <h4>Total Costs: <span className="fw-bolder text-success">{total} $</span></h4>
+                    <h4>Devloper's List: </h4>
+                    {/* selected Developers show */}
+                    <div>
+                        {
+                            cart.map(developer => <Selected developer={developer}></Selected>)
+                        }
+                    </div>
+                </div>
+                <button className="hire-now">Hire Now</button>
+            </div>
+            
         </div>
     );
 };

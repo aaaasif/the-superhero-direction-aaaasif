@@ -1,0 +1,27 @@
+.cart-main {
+    position: sticky;
+    top: 20px;
+}
+.cart {
+    background-color: #89dbbe;
+    margin-left: 25px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.cart-details {
+    text-align: left;
+}
+/* hire now button */
+.hire-now {
+    text-align: center;
+    margin: 10px 0px;
+    border: none;
+    background-color: #1e754a;
+    color: white;
+    padding: 7px 30px;
+    border-radius: 5px;
+    transition: 0.5s;
+}
+.hire-now:hover {
+    transform: scale(1.1);
+}

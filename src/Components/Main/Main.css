@@ -1,0 +1,15 @@
+.developers {
+    display: grid;
+    grid-template-columns: 3fr 1.1fr;
+}
+/* developer responsive part */
+@media only screen and (max-width: 992px) {
+    .developers{
+        grid-template-columns: 2fr 1fr;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .developers{
+        grid-template-columns: 1fr 1fr;
+    }
+}
