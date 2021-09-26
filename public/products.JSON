@@ -1,202 +1,240 @@
 [
     {
         "Key": "ProuctNO1",
-        "name" : "tuttut1",
+        "name" : "Yonex Nanoflare 800",
+        "Weight" : 83,
+        "POWER (10)" : 9,
+        "SWING SPEED" : 9.7,
         "seller" : "1M",
-        "stock" : 36,
-        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "stock" : 3,
+        "img" : "https://image.shutterstock.com/image-photo/badminton-racket-on-white-background-260nw-452457079.jpg",
+        "price" : 3050
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO2",
+        "name" : "Nanoflare 800",
+        "Weight" : 84,
+        "POWER (10)" : 8,
+        "SWING SPEED" : 9.5,
+        "seller" : "Smith",
+        "stock" : 5,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 6050
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO3",
+        "name" : "Yonex Astrox 99",
+        "Weight" : 89,
+        "POWER (10)" : 9.6,
+        "SWING SPEED" : 9.2,
+        "seller" : "Jhon",
+        "stock" : 12,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 2200
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO4",
+        "name" : "Yonex 800",
+        "Weight" : 89,
+        "POWER (10)" : 9.7,
+        "SWING SPEED" : 9,
+        "seller" : "Elon",
+        "stock" : 14,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1231
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
+        "Key": "ProuctN54",
+        "name" : "HEAD Octane Pro",
+        "Weight" : 83,
+        "POWER (10)" : 9,
+        "SWING SPEED" : 9.7,
+        "seller" : "HUbb",
         "stock" : 36,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 5000
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO5",
+        "name" : "Li Ning 3D Calibar 001",
+        "Weight" : 80,
+        "POWER (10)" : 10,
+        "SWING SPEED" : 9,
+        "seller" : "Killo",
+        "stock" : 6,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 2345
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO6",
+        "name" : "Yellow 660",
+        "Weight" : 73,
+        "POWER (10)" : 9,
+        "SWING SPEED" : 9.7,
+        "seller" : "Kabli",
+        "stock" : 6,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 9870
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO7",
+        "name" : "Phonex",
+        "Weight" : 90,
+        "POWER (10)" : 10,
+        "SWING SPEED" : 9.9,
+        "seller" : "Asif",
+        "stock" : 2,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 9800
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO8",
+        "name" : "Hungari 550",
+        "Weight" : 80,
+        "POWER (10)" : 8,
+        "SWING SPEED" : 9,
+        "seller" : "Shibin",
+        "stock" : 3,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1233
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO9",
+        "name" : "YR15 990",
+        "Weight" : 93,
+        "POWER (10)" : 9.9,
+        "SWING SPEED" : 9.9,
+        "seller" : "Pritom",
+        "stock" : 12,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 6790
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctN010",
+        "name" : "Tarbo CC",
+        "Weight" : 94,
+        "POWER (10)" : 9.2,
+        "SWING SPEED" : 9.7,
+        "seller" : "Abdullah",
+        "stock" : 32,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1950
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO11",
+        "name" : "V3 443",
+        "Weight" : 73,
+        "POWER (10)" : 8,
+        "SWING SPEED" : 10,
+        "seller" : "Killo",
+        "stock" : 3,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1234
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO12",
+        "name" : "Oliver Racquet Spektros 101",
+        "Weight" : 93,
+        "POWER (10)" : 10,
+        "SWING SPEED" : 10,
+        "seller" : "olivia",
+        "stock" : 40,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 3030
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO13",
+        "name" : "Oliver Racquet Meta Carbon 10",
+        "Weight" : 88,
+        "POWER (10)" : 9.2,
+        "SWING SPEED" : 9.5,
+        "seller" : "Oggy",
+        "stock" : 16,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1859
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO14",
+        "name" : "Yonex Badminton Racket Muscle Power 100",
+        "Weight" : 85,
+        "POWER (10)" : 9.1,
+        "SWING SPEED" : 9.2,
+        "seller" : "JAck",
+        "stock" : 26,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1450
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
+        "Key": "ProuctNO15",
+        "name" : "Oliver Racquet Sherion 33",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 89,
+        "POWER (10)" : 9.1,
+        "SWING SPEED" : 9.3,
+        "seller" : "Kallu",
         "stock" : 36,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 2250
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO16",
+        "name" : "Yonex Badminton Racket Carbonex 25SP",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 93,
+        "POWER (10)" : 10,
+        "SWING SPEED" : 8.7,
+        "seller" : "Smith",
+        "stock" : 35,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1078
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO17",
+        "name" : "Yonex Badminton Racket Carbonex 250SP",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 85,
+        "POWER (10)" : 9.1,
+        "SWING SPEED" : 9.5,
+        "seller" : "KAlu",
+        "stock" : 30,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1570
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO18",
+        "name" : "Yonex Nanoflare 800Yonex Badminton Racket Carbonex 150SP",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 89,
+        "POWER (10)" : 9.9,
+        "SWING SPEED" : 9.4,
+        "seller" : "Bill",
+        "stock" : 34,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 1390
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO19",
+        "name" : "Yonex Badminton Racket Arcsaber FB",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 80,
+        "POWER (10)" : 9.6,
+        "SWING SPEED" : 9.1,
+        "seller" : "GEtu",
+        "stock" : 5,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 2999
     },
     {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
+        "Key": "ProuctNO20",
+        "name" : "VSE Badminton Racket F-3",
+        "Technology" : "Nanometric & Razor Frame",
+        "Weight" : 99,
+        "POWER (10)" : 10,
+        "SWING SPEED" : 9.9,
+        "seller" : "Top",
+        "stock" : 1,
         "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
-    },
-    {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
-        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
-    },
-    {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
-        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
-    },
-    {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
-        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
-    },
-    {
-        "Key": "ProuctNO1",
-        "name" : "tuttut1",
-        "seller" : "1M",
-        "stock" : 36,
-        "img" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daraz.com.bd%2Fproducts%2Fwish-classic-316-badminton-racket-i124228374-s1044509447.html&psig=AOvVaw0qe6HthtKFOjFQgG-F1J4-&ust=1632748174246000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjNnYrbnPMCFQAAAAAdAAAAABAD",
-        "price" : 1050
+        "price" : 9999
     }
+    
 ]
