@@ -1,8 +1,12 @@
-.product{
+.Product{
     display: flex;
-    border-bottom: 1px solid lightgray;
+    border-bottom: 1px solid gray;
     margin-right: 5px;
-    padding-bottom: 5px;
+    border: 2px solid black;
+}
+.cart-image{
+    border: 2px solid black;
+    width: 300px;
 }
 .product-name{
     color: blue;
@@ -15,7 +19,5 @@
     border: 1px solid gray;
     border-radius: 5px;
     cursor: pointer;
-}
-.icon-color{
-    color: gold;
+    padding-bottom: 5px;
 }
