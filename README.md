@@ -1,12 +1,10 @@
-# Journey to the Center of the Mars
+# gather al the web devloper and make a world best web developer team.
 
-This is the Website Link: [Journey to the Center of the Mars](https://mars-tour-skb.netlify.app/).
+This is the Website Link: (https://cow-haaaat.netlify.app/).
 
 ### `About this website`
-This is a website of a list of astronauts, Anybody can hire a team of astronauts to visit the space.
+Get expert advice and guidance on the latest web development news to build your website. or app to optimal performance. See whats possible at Web.Dev Today! Modern Web Techniques. Website Performance.
 
 ### `Our Services`
-We are providing astronauts, rockets, jet-engines, pilots to visit the space. We also got underwater services. We have sub-marines, war-ships and thousands of soldiars.
+A development team is a group of people who together implement a software, a product, in some cases also a service. Development teams often consist of employees of a company.
 
-### `What can you do with this website?`
-You can hire a team of astronauts to visit the mars for the first time. Also, for any kind of space researches, we can help you by providing our astronauts.
